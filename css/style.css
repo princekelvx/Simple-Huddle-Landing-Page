@@ -59,6 +59,7 @@ body {
   font-weight: 600;
   line-height: 1.7em;
   padding-bottom: 20px;
+  font-size: 2em;
 }
 
 #content p {
@@ -85,7 +86,7 @@ body {
 #icons {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 50px;
 }
 
 #icons i {
